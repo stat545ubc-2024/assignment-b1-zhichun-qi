@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/s4oIzs8K)
+# Assignment-B1
+
+## Overview
+
+This repository is **Assignment B1** for STAT 545B. This assignment covers making a function in R, documenting it, and testing it. Here I made a function **graph_relation()**.
+
+## How to engage
+
+You need to clone the repository and run the script. To support the code required for this assignment, the package **ggplot2** and **testthat** need to be installed and loaded.
